@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Rage bar addon
+## Notes: Customizable Rage Bar
+## Author: Pyörätuoli Jouni
+## Version: 1.0
+## SavedVariables: RageBarAddonDB
+
+styles.lua
+debug.lua
+commands.lua
+main.lua
+lockbutton.lua
+settings.lua
+settingsbutton.lua
+status.lua
